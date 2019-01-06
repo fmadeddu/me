@@ -1,0 +1,48 @@
+div.two-stars:after {
+    content: "\f005\00a0\f005\00a0\f006\00a0\f006\00a0\f006";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+}
+  
+  div.two-half-stars:after {
+    content: "\f005\00a0\f005\00a0\f123\00a0\f006\00a0\f006";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
+  
+  div.three-stars:after {
+    content: "\f005\00a0\f005\00a0\f005\00a0\f006\00a0\f006";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
+  
+  div.three-half-stars:after {
+    content: "\f005\00a0\f005\00a0\f005\00a0\f123\00a0\f006";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
+  
+  div.four-stars:after {
+    content: "\f005\00a0\f005\00a0\f005\00a0\f005\00a0\f006";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
+  
+  div.four-half-stars:after {
+    content: "\f005\00a0\f005\00a0\f005\00a0\f005\00a0\f123";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
+  
+  div.five-stars:after {
+    content: "\f005\00a0\f005\00a0\f005\00a0\f005\00a0\f005";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+  }
