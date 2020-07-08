@@ -27,14 +27,14 @@ div.two-stars:after {
   }
   
   div.four-stars:after {
-    content: "\f005\00a0\f005\00a0\f005\00a0\f005\00a0\f006";
+    content: "\f005";
     font-family: FontAwesome;
     float: right;
     font-size: 18px;
   }
   
   div.four-half-stars:after {
-    content: "\f005\00a0\f005\00a0\f005\00a0\f005\00a0\f123";
+    content: "\f005";
     font-family: FontAwesome;
     float: right;
     font-size: 18px;
